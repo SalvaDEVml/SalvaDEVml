@@ -1,4 +1,3 @@
-<p align="center">
   <table border=0>
     <tr>
       <td>
@@ -9,7 +8,7 @@
       </td>
     </tr>
   </table>
-</p>
+
 
 
 <!--
