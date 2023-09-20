@@ -1,13 +1,15 @@
-<table>
-  <tr>
-    <td>
-      <img width="305" alt="_HELLO WORLD " align="center" src="https://github.com/SalvaDEVml/SalvaDEVml/assets/145191419/87bc4e6e-1bfe-421d-9c8a-98107fdcacaa">    
-    </td>
-    <td align="center">
-      Estudiante de Programacion Web </br> en CODESPACE
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table border=0>
+    <tr>
+      <td>
+        <img width="305" alt="_HELLO WORLD " align="center" src="https://github.com/SalvaDEVml/SalvaDEVml/assets/145191419/87bc4e6e-1bfe-421d-9c8a-98107fdcacaa">    
+      </td>
+      <td align="center">
+        Estudiante de Programacion Web </br> en CODESPACE
+      </td>
+    </tr>
+  </table>
+</p>
 
 
 <!--
