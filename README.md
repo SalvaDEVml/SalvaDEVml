@@ -1,6 +1,6 @@
 <div align="center">
   <img width="405" alt="_HELLO WORLD " align="center" src="https://github.com/SalvaDEVml/SalvaDEVml/assets/145191419/87bc4e6e-1bfe-421d-9c8a-98107fdcacaa">  
-  <h2 align="center">:construccion: Estudiante actualmente de CODESPACE ACADEMY :construccion:</h2>
+  <h2 align="center">Estudiante actualmente de CODESPACE ACADEMY</h2>
 </div>
 
 
